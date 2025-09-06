@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hed {
+  font-family: var(--font-jockey-one), sans-serif;
+  font-size: 32px;
+  color: #38611f;
+}
+
+.heda {
+  font-family: var(--font-jockey-one), sans-serif;
+  font-size: 36px;
+  color: #38611f;
+}
+
+.we {
+  background-color: #38611f;
+  color: white;
+}
+
+.wed {
+  background-color: #38611f;
+  color: white;
+  font-family: var(--font-jockey-one), sans-serif;
+  font-size: 32px;
+}
+
+.new {
+  font-family: var(--font-jacques-francois), var(--font-jockey-one);
+}
